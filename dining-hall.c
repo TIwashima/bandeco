@@ -35,7 +35,7 @@ sem_t sem_estados;   //para a troca de estados
 
 /* Retorna o estado do sistema, com:
    - quantas pessoas estão na saída; 
-   - quantas estão na saída; 
+   - quantas estão na entrada; 
    - quantas estão comendo;
    - quantas estão esperando para sair.
 */
