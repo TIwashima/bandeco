@@ -1,4 +1,4 @@
-# Aplicação de semáforos ao problema de Dining Hall
+# Aplicação de semáforos ao problema Dining Hall
 
 Desenvolvido para disciplina de Sistemas Operacionais (MC504) da UNICAMP, o presente trabalho visa utilizar os conceitos de multithreads e semáforos para resolver o problema Dining Hall - descrito no livro The Little Book of Semaphores de Allen B. Downey - com uma animação apresentando cada estado do problema, simulando o nosso Restaurante Universitário.
 
